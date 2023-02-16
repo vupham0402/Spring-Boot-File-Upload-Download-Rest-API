@@ -1,0 +1,6 @@
+server:
+  servlet:
+    context-path: /api
+
+file:
+  upload-dir: \Users\KenPham\OneDrive - Vision Center Network of America\Desktop\images
